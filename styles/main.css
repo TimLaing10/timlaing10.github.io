@@ -1,15 +1,21 @@
 Body {background-color: #E4F2ED;
 font-family: arial;}
 
-H1 {color: #black;
-    background: #white;
-    display: inline-block;}
+Header {color:black;
+        background: #ECEAEA;
+        padding:15px 15px 0px 15px;}
 
-nav ul {display: inline-block;}
+Header H1 {margin: 0px;
+    display: inline;}
+
+
+nav ul {margin: 0px;
+        padding: 0px 0px 0px 15px;
+        display: inline;}
 
 nav ul li {display: inline-block;
           list-style-type: none;
-          padding: 5px, 15px;
+          padding: 5px 15px;
           color: #ECEAEA;}
 
 a {color: gray;}
