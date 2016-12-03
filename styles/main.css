@@ -1,7 +1,10 @@
 Body {background-color: #E4F2ED;
 font-family: arial;}
 
-H1, {color: #black;
-        background: white;}
+H1 {color: #black;
+    background: #white;
+    display: inline;}
+
+ul {display: inline-block;}
 
 a {color: gray;}
