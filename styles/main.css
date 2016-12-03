@@ -5,6 +5,11 @@ H1 {color: #black;
     background: #white;
     display: inline;}
 
-ul {display: inline-block;}
+nav ul {display: inline-block;}
+
+nav ul li {display: inline-block;
+          list-style-type: none;
+          padding: 5px, 15px;
+          color: #ECEAEA;}
 
 a {color: gray;}
