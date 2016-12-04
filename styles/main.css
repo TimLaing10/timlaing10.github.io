@@ -1,25 +1,25 @@
-Body {background-color: #E4F2ED;
-font-family: arial;}
+Body      {background-color: #E4F2ED;
+          font-family: arial;}
 
-Header {color:black;
-        background: #ECEAEA;
-        padding:15px 15px 15px 15px;}
+Header    {color:black;
+          background: #ECEAEA;
+          padding:15px 15px 15px 15px;}
 
 Header H1 {margin: 0px;
-    display: inline;}
+          display: inline;}
 
-h3    {padding:15px 15px 15px 0px;}
+h3        {padding:15px 15px 15px 0px;}
 
 
-nav ul {margin: 0px;
-        padding: 0px 0px 0px 15px;
-        display: inline;}
+nav ul    {margin: 0px;
+          padding: 0px 0px 0px 15px;
+          display: inline;}
 
 nav ul li {
-          background: ##EFB869;
+          background: #EFB869;
           display: inline-block;
           list-style-type: none;
           padding: 5px 15px;
           }
 
-a {color: gray;}
+a         {color: gray;}
