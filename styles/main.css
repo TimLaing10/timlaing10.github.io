@@ -31,8 +31,9 @@ Header H1 {margin: 0px;
             padding: 10px;
             }
 
-h3        {padding:15px 15px 15px 0px;
-                    color: vgrey;}
+H3        {padding:15px 15px 15px 0px;
+          color: #3e4551;
+          }
 
 
 nav ul    {margin: 0px;
