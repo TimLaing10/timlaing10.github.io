@@ -1,3 +1,13 @@
+element.style {display:flex;}
+
+*         {
+          -webkit-box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          -ms-box-sizing: border-box;
+          box-sizing: border-box;
+          }
+
+
 Body      {background-color: #E4F2ED;
           font-family: arial;}
 
@@ -7,6 +17,19 @@ Header    {color:black;
 
 Header H1 {margin: 0px;
           display: inline;}
+
+.app
+          {display: -webkit-flex;
+              display: flex;
+          }
+
+.image    {max-width: 460px;
+          padding: 10px;
+          }
+
+.description {max-width: 705px;
+            padding: 10px;
+            }
 
 h3        {padding:15px 15px 15px 0px;}
 
