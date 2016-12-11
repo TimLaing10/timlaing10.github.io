@@ -21,6 +21,7 @@ Header H1 {margin: 0px;
 .app
           {display: -webkit-flex;
               display: flex;
+              flex-wrap: wrap;
           }
 
 .image    {max-width: 460px;
