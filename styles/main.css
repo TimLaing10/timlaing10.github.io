@@ -1,15 +1,14 @@
 Header {
     color: black;
     padding: 15px 15px 15px 15px;
+    text-align: center;
 }
 
-
-.button
-           {
+.button {
     background-color: #DAF7A6;
     border-color: #DAF7A6;
 }
 
-h1     {
+h1 {
     margin: 15px;
 }
