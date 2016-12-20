@@ -5,6 +5,10 @@ Header {
     background-color: #EAEAEA;
 }
 
+.container {
+    padding-top: 15px;
+}
+
 .button {
     background-color: #DAF7A6;
     border-color: #DAF7A6;
