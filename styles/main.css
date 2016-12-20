@@ -6,13 +6,8 @@ Header {
 
 .button
            {
-    width: 100%;
     background-color: #DAF7A6;
     border-color: #DAF7A6;
-    padding: 15px;
-    color: black;
-    display: inline-block;
-
 }
 
 h1     {
