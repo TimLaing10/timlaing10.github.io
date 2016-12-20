@@ -7,5 +7,5 @@ Header {
 .button-primary {
     background-color: #DAF7A6;
     border-color: #DAF7A6;
-
+    display: inline-block;
 }
