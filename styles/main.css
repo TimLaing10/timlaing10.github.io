@@ -3,13 +3,6 @@ Header {
     padding: 15px 15px 15px 15px;
 }
 
-.button {
-    width: 100%;
-    background-color: #DAF7A6;
-    border-color: #DAF7A6;
-    padding: 0px;
-    color: black;
-}
 
 .button-primary {
     background-color: #DAF7A6;
