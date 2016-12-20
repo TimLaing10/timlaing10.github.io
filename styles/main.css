@@ -10,3 +10,9 @@ Header {
     padding: 0px;
     color: black;
 }
+
+.button-primary {
+    background-color: #DAF7A6;
+    border-color: #DAF7A6;
+
+}
