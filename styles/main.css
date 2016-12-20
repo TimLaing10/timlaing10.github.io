@@ -17,5 +17,7 @@ h1          {margin: 15PX;}
 .button-primary {
     background-color: #DAF7A6;
     border-color: #DAF7A6;
+    display: inline-block;
+    width: 100%;
 
 }
