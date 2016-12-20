@@ -5,6 +5,9 @@ Header {
     background-color: #EAEAEA;
 }
 
+.container {margin: 15px;
+}
+
 .button {
     background-color: #DAF7A6;
     border-color: #DAF7A6;
