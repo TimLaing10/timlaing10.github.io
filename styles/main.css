@@ -5,7 +5,7 @@ Header {
     background-color: #EAEAEA;
 }
 
-.site-header {position:sticky;
+.site-header {position:relative;
 }
 
 .site-header-inner {
