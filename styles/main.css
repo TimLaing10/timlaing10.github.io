@@ -5,6 +5,9 @@ Header {
     background-color: #EAEAEA;
 }
 
+.site-header {position:sticky;
+}
+
 .container {
     padding-top: 15px;
 }
