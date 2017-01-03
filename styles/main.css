@@ -30,6 +30,8 @@ h1 {
 h3  {padding-top: : 15px;
 }
 
-h5  {padding-top: 15px;}
+.main-content h5  {padding-top: 15px;
+    font-weight: bold;
+}
 
 p   {padding-top: 15px;}
