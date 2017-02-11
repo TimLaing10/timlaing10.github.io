@@ -6,6 +6,17 @@ Header {
     margin-bottom: 15px;
 }
 
+Footer {
+    color: black;
+    padding: 15px;
+    background-color: #EAEAEA;
+
+
+}
+
+Main {
+    padding-top: 30px;
+}
 .site-header {position:relative;
 }
 
@@ -15,6 +26,8 @@ Header {
 
 .container {
     padding-top: 15px;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
 }
 
 .button {
